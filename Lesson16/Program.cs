@@ -30,8 +30,6 @@ namespace Lesson16
 
             app.UseAuthorization();
 
-            app.Services.GetService<ProductBasketService>();
-
             app.MapControllers();
 
             app.Run();
