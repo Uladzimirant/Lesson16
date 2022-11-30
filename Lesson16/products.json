@@ -1,0 +1,64 @@
+{
+  "Products": [
+    {
+      "Type": "Food",
+      "Name": "Apple",
+      "Price": 1.57,
+      "Amount": 1.2,
+      "ExpirationTime": 3
+    },
+    {
+      "Type": "Food",
+      "Name": "Banana",
+      "Price": 3.98,
+      "Amount": 0.4,
+      "ExpirationTime": 5
+    },
+    {
+      "Type": "Food",
+      "Name": "Meat",
+      "Price": 11.8,
+      "Amount": 0.35,
+      "ExpirationTime": 2
+    },
+    {
+      "Type": "Food",
+      "Name": "Bread",
+      "Price": 1.08,
+      "Amount": 1,
+      "ExpirationTime": 5
+    },
+    {
+      "Type": "Food",
+      "Name": "Milk",
+      "Price": 1.73,
+      "Amount": 2,
+      "ExpirationTime": 4
+    },
+    {
+      "Type": "ElectricalAppliance",
+      "Name": "Charger",
+      "Price": 59,
+      "Amount": 1,
+      "Voltage": 220,
+      "Amperage": 5,
+      "Power": 1880
+    },
+    {
+      "Type": "ElectricalAppliance",
+      "Name": "Headphones",
+      "Price": 2.5,
+      "Amount": 4,
+      "Voltage": 15,
+      "Amperage": 0.5,
+      "Power": 8
+    },
+    {
+      "Type": "Chemical",
+      "Name": "Detergent",
+      "Price": 19.9,
+      "Amount": 1.5,
+      "DangerLevel": "Slight"
+    }
+  ]
+}
